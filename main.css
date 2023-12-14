@@ -1,0 +1,47 @@
+input[type=text]{
+    background-color: #266;
+    color: #fff;
+}
+input[type=text]:focus{
+    background-color: #299;
+    color:#fff;
+}
+
+input[type=date]{
+    background-color: #266;
+    color: #fff;
+}
+input[type=date]:focus{
+    background-color: #299;
+    color: #fff;
+}
+input[type=email]{
+    background-color: #266;
+    color: #fff;
+}
+input[type=email]:focus{
+    background-color: #299;
+    color: #fff;
+}
+
+input[type=number]:focus{
+    background-color: #299;
+    color: #fff;
+}
+input[type=number]{
+    background-color: #266;
+    color: #fff;
+}
+select:focus{
+    background-color: #266;
+    color:#fff;
+}
+.form-select{
+    background-color: #266;
+    color:#fff;
+}
+#btn-sub{
+    background-color: #266;
+    width: 100px;
+    border-radius: 6;
+}
